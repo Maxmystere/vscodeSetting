@@ -6,5 +6,6 @@
     "files.trimFinalNewlines": true,
     "git.confirmSync": false,
     "window.restoreWindows": "none",
+    "editor.insertSpaces": false,
     "git.autofetch": true
 }
