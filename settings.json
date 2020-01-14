@@ -4,8 +4,17 @@
     "files.autoSave": "onFocusChange",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
-    "git.confirmSync": false,
-    "window.restoreWindows": "none",
+    "files.autoSaveDelay": 10,
+    "editor.rulers": [
+        80
+    ],
     "editor.insertSpaces": false,
-    "git.autofetch": true
+    "editor.minimap.enabled": false,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.sideBar.location": "left",
+    "window.restoreWindows": "none",
+    "vscode-mysql.enableTelemetry": false,
+    "search.showLineNumbers": true
 }
