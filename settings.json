@@ -16,5 +16,6 @@
     "workbench.sideBar.location": "left",
     "window.restoreWindows": "none",
     "vscode-mysql.enableTelemetry": false,
-    "search.showLineNumbers": true
+    "search.showLineNumbers": true,
+    "gitlens.mode.active": "zen"
 }
