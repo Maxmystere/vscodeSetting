@@ -1,3 +1,3 @@
 ECHO Copying
-xcopy settings.json %APPDATA%\Code\User\settings.json
+copy settings.json %APPDATA%\Code\User\settings.json
 ECHO Done
